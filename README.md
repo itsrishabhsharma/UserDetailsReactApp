@@ -2,9 +2,8 @@
 
 <h3> About the app: </h3></br>
 <p>
-This react app consists of two pages made using redux technology for react.js. Home page shows list of users by just giving their names, when you
-click on the name of a user, then you will be directed to a separate page showing all the details of that person like address,phone,id,age etc. </p>
-<p>i have used redux to maximise efficieny and save time.</p></br>
+This react app consists of two pages made using redux technology for react.js. Home page shows list of users' names. On clicking the name of a user, you will be directed to a separate page showing all the details of that person like address,phone,id,age etc. </p>
+<p>Used redux to maximise efficiency and save time.</p></br>
 <b>Follow these steps to run the react app </b> </br>
 
 step1: Download the zipped folder from the download option of this repository.</br>
